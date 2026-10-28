@@ -1,0 +1,1290 @@
+{
+  "A": [
+    {
+      "id": 1,
+      "category": "退款",
+      "question": "买的东西已经签收5天了，还能申请退款吗？",
+      "gold_doc": "refund-general",
+      "result": "无依据作答→return-policy",
+      "top_score": 3.635
+    },
+    {
+      "id": 2,
+      "category": "退款",
+      "question": "生鲜水果有质量问题，最晚什么时候申请退款？",
+      "gold_doc": "refund-food",
+      "result": "作答正确",
+      "top_score": 5.391
+    },
+    {
+      "id": 3,
+      "category": "退款",
+      "question": "充值的会员卡还没激活，能退吗？",
+      "gold_doc": "refund-digital",
+      "result": "作答正确",
+      "top_score": 5.094
+    },
+    {
+      "id": 4,
+      "category": "退款",
+      "question": "用银行卡付款的订单退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.437
+    },
+    {
+      "id": 5,
+      "category": "退款",
+      "question": "微信支付的退款几天能到？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.002
+    },
+    {
+      "id": 6,
+      "category": "退款",
+      "question": "生鲜退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 7.478
+    },
+    {
+      "id": 7,
+      "category": "退款",
+      "question": "定制类商品能退款吗？",
+      "gold_doc": "refund-general",
+      "result": "作答正确",
+      "top_score": 3.87
+    },
+    {
+      "id": 8,
+      "category": "配送",
+      "question": "下单后一般多久能发货？",
+      "gold_doc": "delivery-standard",
+      "result": "无依据作答→refund-general",
+      "top_score": 3.907
+    },
+    {
+      "id": 9,
+      "category": "配送",
+      "question": "加急配送多久能送到？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 4.562
+    },
+    {
+      "id": 10,
+      "category": "配送",
+      "question": "新疆的订单要多久能送到？",
+      "gold_doc": "delivery-remote",
+      "result": "作答正确",
+      "top_score": 3.292
+    },
+    {
+      "id": 11,
+      "category": "配送",
+      "question": "标准配送超时有什么补偿？",
+      "gold_doc": "delivery-overtime",
+      "result": "作答正确",
+      "top_score": 6.741
+    },
+    {
+      "id": 12,
+      "category": "配送",
+      "question": "加急配送费多少钱？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 5.29
+    },
+    {
+      "id": 13,
+      "category": "配送",
+      "question": "满多少钱可以免运费？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 3.665
+    },
+    {
+      "id": 14,
+      "category": "订单修改",
+      "question": "还没发货的订单能取消吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 6.271
+    },
+    {
+      "id": 15,
+      "category": "订单修改",
+      "question": "发货后还能改收货地址吗？",
+      "gold_doc": "order-address",
+      "result": "作答正确",
+      "top_score": 8.381
+    },
+    {
+      "id": 16,
+      "category": "订单修改",
+      "question": "为什么我的订单被拆成两个包裹？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 5.92
+    },
+    {
+      "id": 17,
+      "category": "订单修改",
+      "question": "取消订单后优惠券会退回吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 8.305
+    },
+    {
+      "id": 18,
+      "category": "订单修改",
+      "question": "加急订单发货后能改地址吗？",
+      "gold_doc": "order-address",
+      "result": "作答正确",
+      "top_score": 6.805
+    },
+    {
+      "id": 19,
+      "category": "订单修改",
+      "question": "拆单后运费怎么算？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 5.275
+    },
+    {
+      "id": 20,
+      "category": "退换货",
+      "question": "无理由退货的运费谁出？",
+      "gold_doc": "return-policy",
+      "result": "作答正确",
+      "top_score": 11.422
+    },
+    {
+      "id": 21,
+      "category": "退换货",
+      "question": "买的大件电器有质量问题能换新吗？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 5.093
+    },
+    {
+      "id": 22,
+      "category": "退换货",
+      "question": "衣服尺码不合适多久内能换？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 8.74
+    },
+    {
+      "id": 23,
+      "category": "退换货",
+      "question": "质量问题退货运费谁承担？",
+      "gold_doc": "return-policy",
+      "result": "无依据作答→exchange-size",
+      "top_score": 7.362
+    },
+    {
+      "id": 24,
+      "category": "退换货",
+      "question": "大家电退换需要保留什么？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 15.648
+    },
+    {
+      "id": 25,
+      "category": "退换货",
+      "question": "特价清仓的衣服能换尺码吗？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 9.8
+    },
+    {
+      "id": 26,
+      "category": "支付",
+      "question": "支持哪些支付方式？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 6.235
+    },
+    {
+      "id": 27,
+      "category": "支付",
+      "question": "分期付款最少要多少钱？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 2.512
+    },
+    {
+      "id": 28,
+      "category": "支付",
+      "question": "支付成功了但订单没更新怎么办？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 9.563
+    },
+    {
+      "id": 29,
+      "category": "支付",
+      "question": "重复扣款了会自动退吗？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 10.533
+    },
+    {
+      "id": 30,
+      "category": "支付",
+      "question": "分期手续费怎么收？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 7.83
+    },
+    {
+      "id": 31,
+      "category": "支付",
+      "question": "微信支付单笔限额多少？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 11.634
+    },
+    {
+      "id": 32,
+      "category": "发票",
+      "question": "订单完成后多久内能开发票？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 3.751
+    },
+    {
+      "id": 33,
+      "category": "发票",
+      "question": "企业发票需要提供什么？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 9.947
+    },
+    {
+      "id": 34,
+      "category": "发票",
+      "question": "发票能开办公用品吗？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 8.095
+    },
+    {
+      "id": 35,
+      "category": "发票",
+      "question": "发票开错了能改抬头吗？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 6.122
+    },
+    {
+      "id": 36,
+      "category": "超出范围",
+      "question": "话费充值订单可以退款吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→order-cancel",
+      "top_score": 1.568
+    },
+    {
+      "id": 37,
+      "category": "超出范围",
+      "question": "宠物用品能无理由退货吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→return-policy",
+      "top_score": 10.631
+    },
+    {
+      "id": 38,
+      "category": "超出范围",
+      "question": "海外订单几天能送到？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→order-cancel",
+      "top_score": 1.003
+    },
+    {
+      "id": 39,
+      "category": "超出范围",
+      "question": "电话订购怎么下单？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→delivery-overtime",
+      "top_score": 2.427
+    },
+    {
+      "id": 40,
+      "category": "超出范围",
+      "question": "手机可以以旧换新吗？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 0.0
+    }
+  ],
+  "B": [
+    {
+      "id": 1,
+      "category": "退款",
+      "question": "买的东西已经签收5天了，还能申请退款吗？",
+      "gold_doc": "refund-general",
+      "result": "无依据作答→return-appliance",
+      "top_score": 6.407
+    },
+    {
+      "id": 2,
+      "category": "退款",
+      "question": "生鲜水果有质量问题，最晚什么时候申请退款？",
+      "gold_doc": "refund-food",
+      "result": "作答正确",
+      "top_score": 10.253
+    },
+    {
+      "id": 3,
+      "category": "退款",
+      "question": "充值的会员卡还没激活，能退吗？",
+      "gold_doc": "refund-digital",
+      "result": "作答正确",
+      "top_score": 6.792
+    },
+    {
+      "id": 4,
+      "category": "退款",
+      "question": "用银行卡付款的订单退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.982
+    },
+    {
+      "id": 5,
+      "category": "退款",
+      "question": "微信支付的退款几天能到？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.317
+    },
+    {
+      "id": 6,
+      "category": "退款",
+      "question": "生鲜退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 9.041
+    },
+    {
+      "id": 7,
+      "category": "退款",
+      "question": "定制类商品能退款吗？",
+      "gold_doc": "refund-general",
+      "result": "作答正确",
+      "top_score": 7.872
+    },
+    {
+      "id": 8,
+      "category": "配送",
+      "question": "下单后一般多久能发货？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 5.737
+    },
+    {
+      "id": 9,
+      "category": "配送",
+      "question": "加急配送多久能送到？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 5.828
+    },
+    {
+      "id": 10,
+      "category": "配送",
+      "question": "新疆的订单要多久能送到？",
+      "gold_doc": "delivery-remote",
+      "result": "作答正确",
+      "top_score": 3.863
+    },
+    {
+      "id": 11,
+      "category": "配送",
+      "question": "标准配送超时有什么补偿？",
+      "gold_doc": "delivery-overtime",
+      "result": "作答正确",
+      "top_score": 7.797
+    },
+    {
+      "id": 12,
+      "category": "配送",
+      "question": "加急配送费多少钱？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 6.381
+    },
+    {
+      "id": 13,
+      "category": "配送",
+      "question": "满多少钱可以免运费？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 7.389
+    },
+    {
+      "id": 14,
+      "category": "订单修改",
+      "question": "还没发货的订单能取消吗？",
+      "gold_doc": "order-cancel",
+      "result": "无依据作答→refund-general",
+      "top_score": 6.504
+    },
+    {
+      "id": 15,
+      "category": "订单修改",
+      "question": "发货后还能改收货地址吗？",
+      "gold_doc": "order-address",
+      "result": "无依据作答→order-split",
+      "top_score": 9.083
+    },
+    {
+      "id": 16,
+      "category": "订单修改",
+      "question": "为什么我的订单被拆成两个包裹？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 6.259
+    },
+    {
+      "id": 17,
+      "category": "订单修改",
+      "question": "取消订单后优惠券会退回吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 9.774
+    },
+    {
+      "id": 18,
+      "category": "订单修改",
+      "question": "加急订单发货后能改地址吗？",
+      "gold_doc": "order-address",
+      "result": "无依据作答→order-split",
+      "top_score": 6.194
+    },
+    {
+      "id": 19,
+      "category": "订单修改",
+      "question": "拆单后运费怎么算？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 4.404
+    },
+    {
+      "id": 20,
+      "category": "退换货",
+      "question": "无理由退货的运费谁出？",
+      "gold_doc": "return-policy",
+      "result": "作答正确",
+      "top_score": 13.565
+    },
+    {
+      "id": 21,
+      "category": "退换货",
+      "question": "买的大件电器有质量问题能换新吗？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 8.802
+    },
+    {
+      "id": 22,
+      "category": "退换货",
+      "question": "衣服尺码不合适多久内能换？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 7.282
+    },
+    {
+      "id": 23,
+      "category": "退换货",
+      "question": "质量问题退货运费谁承担？",
+      "gold_doc": "return-policy",
+      "result": "无依据作答→exchange-size",
+      "top_score": 13.226
+    },
+    {
+      "id": 24,
+      "category": "退换货",
+      "question": "大家电退换需要保留什么？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 9.133
+    },
+    {
+      "id": 25,
+      "category": "退换货",
+      "question": "特价清仓的衣服能换尺码吗？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 10.432
+    },
+    {
+      "id": 26,
+      "category": "支付",
+      "question": "支持哪些支付方式？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 8.104
+    },
+    {
+      "id": 27,
+      "category": "支付",
+      "question": "分期付款最少要多少钱？",
+      "gold_doc": "payment-installment",
+      "result": "漏答",
+      "top_score": 0.0
+    },
+    {
+      "id": 28,
+      "category": "支付",
+      "question": "支付成功了但订单没更新怎么办？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 12.329
+    },
+    {
+      "id": 29,
+      "category": "支付",
+      "question": "重复扣款了会自动退吗？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 13.319
+    },
+    {
+      "id": 30,
+      "category": "支付",
+      "question": "分期手续费怎么收？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 7.105
+    },
+    {
+      "id": 31,
+      "category": "支付",
+      "question": "微信支付单笔限额多少？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 12.517
+    },
+    {
+      "id": 32,
+      "category": "发票",
+      "question": "订单完成后多久内能开发票？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 5.492
+    },
+    {
+      "id": 33,
+      "category": "发票",
+      "question": "企业发票需要提供什么？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 7.268
+    },
+    {
+      "id": 34,
+      "category": "发票",
+      "question": "发票能开办公用品吗？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 8.972
+    },
+    {
+      "id": 35,
+      "category": "发票",
+      "question": "发票开错了能改抬头吗？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 6.117
+    },
+    {
+      "id": 36,
+      "category": "超出范围",
+      "question": "话费充值订单可以退款吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→refund-general",
+      "top_score": 2.261
+    },
+    {
+      "id": 37,
+      "category": "超出范围",
+      "question": "宠物用品能无理由退货吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→return-policy",
+      "top_score": 10.443
+    },
+    {
+      "id": 38,
+      "category": "超出范围",
+      "question": "海外订单几天能送到？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→invoice-electronic",
+      "top_score": 1.033
+    },
+    {
+      "id": 39,
+      "category": "超出范围",
+      "question": "电话订购怎么下单？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→delivery-overtime",
+      "top_score": 3.863
+    },
+    {
+      "id": 40,
+      "category": "超出范围",
+      "question": "手机可以以旧换新吗？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 0.0
+    }
+  ],
+  "C": [
+    {
+      "id": 1,
+      "category": "退款",
+      "question": "买的东西已经签收5天了，还能申请退款吗？",
+      "gold_doc": "refund-general",
+      "result": "无依据作答→return-appliance",
+      "top_score": 6.407
+    },
+    {
+      "id": 2,
+      "category": "退款",
+      "question": "生鲜水果有质量问题，最晚什么时候申请退款？",
+      "gold_doc": "refund-food",
+      "result": "作答正确",
+      "top_score": 10.253
+    },
+    {
+      "id": 3,
+      "category": "退款",
+      "question": "充值的会员卡还没激活，能退吗？",
+      "gold_doc": "refund-digital",
+      "result": "作答正确",
+      "top_score": 6.792
+    },
+    {
+      "id": 4,
+      "category": "退款",
+      "question": "用银行卡付款的订单退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.982
+    },
+    {
+      "id": 5,
+      "category": "退款",
+      "question": "微信支付的退款几天能到？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.317
+    },
+    {
+      "id": 6,
+      "category": "退款",
+      "question": "生鲜退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 9.041
+    },
+    {
+      "id": 7,
+      "category": "退款",
+      "question": "定制类商品能退款吗？",
+      "gold_doc": "refund-general",
+      "result": "作答正确",
+      "top_score": 7.872
+    },
+    {
+      "id": 8,
+      "category": "配送",
+      "question": "下单后一般多久能发货？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 5.737
+    },
+    {
+      "id": 9,
+      "category": "配送",
+      "question": "加急配送多久能送到？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 5.828
+    },
+    {
+      "id": 10,
+      "category": "配送",
+      "question": "新疆的订单要多久能送到？",
+      "gold_doc": "delivery-remote",
+      "result": "作答正确",
+      "top_score": 3.863
+    },
+    {
+      "id": 11,
+      "category": "配送",
+      "question": "标准配送超时有什么补偿？",
+      "gold_doc": "delivery-overtime",
+      "result": "作答正确",
+      "top_score": 7.797
+    },
+    {
+      "id": 12,
+      "category": "配送",
+      "question": "加急配送费多少钱？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 6.381
+    },
+    {
+      "id": 13,
+      "category": "配送",
+      "question": "满多少钱可以免运费？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 7.389
+    },
+    {
+      "id": 14,
+      "category": "订单修改",
+      "question": "还没发货的订单能取消吗？",
+      "gold_doc": "order-cancel",
+      "result": "无依据作答→refund-general",
+      "top_score": 6.504
+    },
+    {
+      "id": 15,
+      "category": "订单修改",
+      "question": "发货后还能改收货地址吗？",
+      "gold_doc": "order-address",
+      "result": "无依据作答→order-split",
+      "top_score": 9.083
+    },
+    {
+      "id": 16,
+      "category": "订单修改",
+      "question": "为什么我的订单被拆成两个包裹？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 3.738
+    },
+    {
+      "id": 17,
+      "category": "订单修改",
+      "question": "取消订单后优惠券会退回吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 9.774
+    },
+    {
+      "id": 18,
+      "category": "订单修改",
+      "question": "加急订单发货后能改地址吗？",
+      "gold_doc": "order-address",
+      "result": "无依据作答→order-split",
+      "top_score": 6.194
+    },
+    {
+      "id": 19,
+      "category": "订单修改",
+      "question": "拆单后运费怎么算？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 4.404
+    },
+    {
+      "id": 20,
+      "category": "退换货",
+      "question": "无理由退货的运费谁出？",
+      "gold_doc": "return-policy",
+      "result": "作答正确",
+      "top_score": 13.565
+    },
+    {
+      "id": 21,
+      "category": "退换货",
+      "question": "买的大件电器有质量问题能换新吗？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 8.802
+    },
+    {
+      "id": 22,
+      "category": "退换货",
+      "question": "衣服尺码不合适多久内能换？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 7.282
+    },
+    {
+      "id": 23,
+      "category": "退换货",
+      "question": "质量问题退货运费谁承担？",
+      "gold_doc": "return-policy",
+      "result": "无依据作答→exchange-size",
+      "top_score": 13.226
+    },
+    {
+      "id": 24,
+      "category": "退换货",
+      "question": "大家电退换需要保留什么？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 9.133
+    },
+    {
+      "id": 25,
+      "category": "退换货",
+      "question": "特价清仓的衣服能换尺码吗？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 10.432
+    },
+    {
+      "id": 26,
+      "category": "支付",
+      "question": "支持哪些支付方式？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 8.104
+    },
+    {
+      "id": 27,
+      "category": "支付",
+      "question": "分期付款最少要多少钱？",
+      "gold_doc": "payment-installment",
+      "result": "漏答",
+      "top_score": 0.0
+    },
+    {
+      "id": 28,
+      "category": "支付",
+      "question": "支付成功了但订单没更新怎么办？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 12.329
+    },
+    {
+      "id": 29,
+      "category": "支付",
+      "question": "重复扣款了会自动退吗？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 13.319
+    },
+    {
+      "id": 30,
+      "category": "支付",
+      "question": "分期手续费怎么收？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 7.105
+    },
+    {
+      "id": 31,
+      "category": "支付",
+      "question": "微信支付单笔限额多少？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 12.517
+    },
+    {
+      "id": 32,
+      "category": "发票",
+      "question": "订单完成后多久内能开发票？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 5.492
+    },
+    {
+      "id": 33,
+      "category": "发票",
+      "question": "企业发票需要提供什么？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 7.268
+    },
+    {
+      "id": 34,
+      "category": "发票",
+      "question": "发票能开办公用品吗？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 8.972
+    },
+    {
+      "id": 35,
+      "category": "发票",
+      "question": "发票开错了能改抬头吗？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 6.117
+    },
+    {
+      "id": 36,
+      "category": "超出范围",
+      "question": "话费充值订单可以退款吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→refund-general",
+      "top_score": 2.261
+    },
+    {
+      "id": 37,
+      "category": "超出范围",
+      "question": "宠物用品能无理由退货吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→return-policy",
+      "top_score": 10.443
+    },
+    {
+      "id": 38,
+      "category": "超出范围",
+      "question": "海外订单几天能送到？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→invoice-electronic",
+      "top_score": 1.033
+    },
+    {
+      "id": 39,
+      "category": "超出范围",
+      "question": "电话订购怎么下单？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→delivery-overtime",
+      "top_score": 3.863
+    },
+    {
+      "id": 40,
+      "category": "超出范围",
+      "question": "手机可以以旧换新吗？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 0.0
+    }
+  ],
+  "D": [
+    {
+      "id": 1,
+      "category": "退款",
+      "question": "买的东西已经签收5天了，还能申请退款吗？",
+      "gold_doc": "refund-general",
+      "result": "无依据作答→return-policy",
+      "top_score": 3.635
+    },
+    {
+      "id": 2,
+      "category": "退款",
+      "question": "生鲜水果有质量问题，最晚什么时候申请退款？",
+      "gold_doc": "refund-food",
+      "result": "作答正确",
+      "top_score": 5.391
+    },
+    {
+      "id": 3,
+      "category": "退款",
+      "question": "充值的会员卡还没激活，能退吗？",
+      "gold_doc": "refund-digital",
+      "result": "作答正确",
+      "top_score": 5.094
+    },
+    {
+      "id": 4,
+      "category": "退款",
+      "question": "用银行卡付款的订单退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.437
+    },
+    {
+      "id": 5,
+      "category": "退款",
+      "question": "微信支付的退款几天能到？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 8.002
+    },
+    {
+      "id": 6,
+      "category": "退款",
+      "question": "生鲜退款多久到账？",
+      "gold_doc": "refund-timeline",
+      "result": "作答正确",
+      "top_score": 7.478
+    },
+    {
+      "id": 7,
+      "category": "退款",
+      "question": "定制类商品能退款吗？",
+      "gold_doc": "refund-general",
+      "result": "作答正确",
+      "top_score": 3.87
+    },
+    {
+      "id": 8,
+      "category": "配送",
+      "question": "下单后一般多久能发货？",
+      "gold_doc": "delivery-standard",
+      "result": "无依据作答→refund-general",
+      "top_score": 3.907
+    },
+    {
+      "id": 9,
+      "category": "配送",
+      "question": "加急配送多久能送到？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 4.562
+    },
+    {
+      "id": 10,
+      "category": "配送",
+      "question": "新疆的订单要多久能送到？",
+      "gold_doc": "delivery-remote",
+      "result": "作答正确",
+      "top_score": 3.292
+    },
+    {
+      "id": 11,
+      "category": "配送",
+      "question": "标准配送超时有什么补偿？",
+      "gold_doc": "delivery-overtime",
+      "result": "作答正确",
+      "top_score": 6.741
+    },
+    {
+      "id": 12,
+      "category": "配送",
+      "question": "加急配送费多少钱？",
+      "gold_doc": "delivery-express",
+      "result": "作答正确",
+      "top_score": 5.29
+    },
+    {
+      "id": 13,
+      "category": "配送",
+      "question": "满多少钱可以免运费？",
+      "gold_doc": "delivery-standard",
+      "result": "作答正确",
+      "top_score": 3.665
+    },
+    {
+      "id": 14,
+      "category": "订单修改",
+      "question": "还没发货的订单能取消吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 6.271
+    },
+    {
+      "id": 15,
+      "category": "订单修改",
+      "question": "发货后还能改收货地址吗？",
+      "gold_doc": "order-address",
+      "result": "作答正确",
+      "top_score": 8.381
+    },
+    {
+      "id": 16,
+      "category": "订单修改",
+      "question": "为什么我的订单被拆成两个包裹？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 5.92
+    },
+    {
+      "id": 17,
+      "category": "订单修改",
+      "question": "取消订单后优惠券会退回吗？",
+      "gold_doc": "order-cancel",
+      "result": "作答正确",
+      "top_score": 8.305
+    },
+    {
+      "id": 18,
+      "category": "订单修改",
+      "question": "加急订单发货后能改地址吗？",
+      "gold_doc": "order-address",
+      "result": "作答正确",
+      "top_score": 6.805
+    },
+    {
+      "id": 19,
+      "category": "订单修改",
+      "question": "拆单后运费怎么算？",
+      "gold_doc": "order-split",
+      "result": "作答正确",
+      "top_score": 5.275
+    },
+    {
+      "id": 20,
+      "category": "退换货",
+      "question": "无理由退货的运费谁出？",
+      "gold_doc": "return-policy",
+      "result": "作答正确",
+      "top_score": 11.422
+    },
+    {
+      "id": 21,
+      "category": "退换货",
+      "question": "买的大件电器有质量问题能换新吗？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 5.093
+    },
+    {
+      "id": 22,
+      "category": "退换货",
+      "question": "衣服尺码不合适多久内能换？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 8.74
+    },
+    {
+      "id": 23,
+      "category": "退换货",
+      "question": "质量问题退货运费谁承担？",
+      "gold_doc": "return-policy",
+      "result": "无依据作答→exchange-size",
+      "top_score": 7.362
+    },
+    {
+      "id": 24,
+      "category": "退换货",
+      "question": "大家电退换需要保留什么？",
+      "gold_doc": "return-appliance",
+      "result": "作答正确",
+      "top_score": 15.648
+    },
+    {
+      "id": 25,
+      "category": "退换货",
+      "question": "特价清仓的衣服能换尺码吗？",
+      "gold_doc": "exchange-size",
+      "result": "作答正确",
+      "top_score": 9.8
+    },
+    {
+      "id": 26,
+      "category": "支付",
+      "question": "支持哪些支付方式？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 6.235
+    },
+    {
+      "id": 27,
+      "category": "支付",
+      "question": "分期付款最少要多少钱？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 2.512
+    },
+    {
+      "id": 28,
+      "category": "支付",
+      "question": "支付成功了但订单没更新怎么办？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 9.563
+    },
+    {
+      "id": 29,
+      "category": "支付",
+      "question": "重复扣款了会自动退吗？",
+      "gold_doc": "payment-security",
+      "result": "作答正确",
+      "top_score": 10.533
+    },
+    {
+      "id": 30,
+      "category": "支付",
+      "question": "分期手续费怎么收？",
+      "gold_doc": "payment-installment",
+      "result": "作答正确",
+      "top_score": 7.83
+    },
+    {
+      "id": 31,
+      "category": "支付",
+      "question": "微信支付单笔限额多少？",
+      "gold_doc": "payment-methods",
+      "result": "作答正确",
+      "top_score": 11.634
+    },
+    {
+      "id": 32,
+      "category": "发票",
+      "question": "订单完成后多久内能开发票？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 3.751
+    },
+    {
+      "id": 33,
+      "category": "发票",
+      "question": "企业发票需要提供什么？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 9.947
+    },
+    {
+      "id": 34,
+      "category": "发票",
+      "question": "发票能开办公用品吗？",
+      "gold_doc": "invoice-company",
+      "result": "作答正确",
+      "top_score": 8.095
+    },
+    {
+      "id": 35,
+      "category": "发票",
+      "question": "发票开错了能改抬头吗？",
+      "gold_doc": "invoice-electronic",
+      "result": "作答正确",
+      "top_score": 6.122
+    },
+    {
+      "id": 36,
+      "category": "超出范围",
+      "question": "话费充值订单可以退款吗？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 1.568
+    },
+    {
+      "id": 37,
+      "category": "超出范围",
+      "question": "宠物用品能无理由退货吗？",
+      "gold_doc": "（应拒答）",
+      "result": "无依据作答→return-policy",
+      "top_score": 10.631
+    },
+    {
+      "id": 38,
+      "category": "超出范围",
+      "question": "海外订单几天能送到？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 1.003
+    },
+    {
+      "id": 39,
+      "category": "超出范围",
+      "question": "电话订购怎么下单？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 2.427
+    },
+    {
+      "id": 40,
+      "category": "超出范围",
+      "question": "手机可以以旧换新吗？",
+      "gold_doc": "（应拒答）",
+      "result": "正确拒答",
+      "top_score": 0.0
+    }
+  ]
+}
